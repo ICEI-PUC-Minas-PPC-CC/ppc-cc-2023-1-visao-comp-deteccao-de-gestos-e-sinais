@@ -1,42 +1,29 @@
-# TÍTULO DO PROJETO
+# Gesture recognition applied to the study sign language
 
-`PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
-`2021 - Semestre 1`
+ASL learning and practicing React Native mobile application using Tensorflow.js handpose and fingerpose models for realtime gesture detection
 
-## Integrantes
+| Home                                                                                                   | Learning                                                                                               | Exercices                                                                                              | Translate                                                                                              |
+| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
+| ![image](https://github.com/YuryRegis/SignSpeech/assets/29512626/e91751e1-9391-4027-9e65-837a874a46a7) | ![image](https://github.com/YuryRegis/SignSpeech/assets/29512626/c8c0cc47-92eb-4ba9-9fe3-eee16ff55a03) | ![image](https://github.com/YuryRegis/SignSpeech/assets/29512626/892d820b-a3fe-4a49-b3fb-a8c47eb96f0a) | ![image](https://github.com/YuryRegis/SignSpeech/assets/29512626/31b110fb-b3b9-40d0-8a11-93545d7995e9) |
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+## Technologies
 
-## Professor
+Project is created with:
 
-- Mestre Yoda
+- Expo version: 48.0.0
+- React Native version: 0.71.3
+- Recoil version: 0.6.1
+- Tensorflow version: 4.6.0
 
-# Documentação
+## Installation
 
-<ol>
-<li><a href="docs/1-Documentação de Contexto.md"> Documentação de Contexto</a></li>
-<li><a href="docs/2-Especificação do Projeto.md"> Especificação do Projeto</a></li>
-<li><a href="docs/3-Projeto de Interface.md"> Projeto de Interface</a></li>
-<li><a href="docs/4-Metodologia.md"> Metodologia</a></li>
-<li><a href="docs/5-Arquitetura da Solução.md"> Arquitetura da Solução</a></li>
-<li><a href="docs/6-Template padrão do Site.md"> Template padrão do Site</a></li>
-<li><a href="docs/7-Programação de Funcionalidades.md"> Programação de Funcionalidades</a></li>
-<li><a href="docs/8-Plano de Testes de Software.md"> Plano de Testes de Software</a></li>
-<li><a href="docs/9-Registro de Testes de Software.md"> Registro de Testes de Software</a></li>
-<li><a href="docs/10-Plano de Testes de Usabilidade.md"> Plano de Testes de Usabilidade</a></li>
-<li><a href="docs/11-Registro de Testes de Usabilidade.md"> Registro de Testes de Usabilidade</a></li>
-<li><a href="docs/12-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
-<li><a href="docs/13-Referências.md"> Referências</a></li>
-</ol>
+- Make sure you grant permission to install apps from outside the Google store;
+- Allow camera use while using the app;
+- Follow the link or scan the QR code bellow:
+  ```
+  https://expo.dev/accounts/yury_regis/projects/sign-speech/builds/8acef8f2-b89d-44ae-afd3-39d68f5400ac
+  ```
 
-# Código
-
-<li><a href="src/README.md"> Código Fonte</a></li>
-
-# Apresentação
-
-<li><a href="presentation/README.md"> Apresentação da solução</a></li>
+| APK                                                                                                                                                                             | AAB                                                                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img width="400px" title="SignSpeech QR code" alt="QR CODE TO DOWNLOAD APP" src="https://github.com/YuryRegis/SignSpeech/assets/29512626/882de8ff-755a-4804-9be5-fb15dd5d8f0e"> | <img width="390px" title="SignSpeech QR code" alt="QR CODE TO DOWNLOAD APP" src="https://github.com/YuryRegis/SignSpeech/assets/29512626/d3cbf544-2436-4f37-b602-913a1ffc8b7f"> |
